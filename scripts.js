@@ -1,7 +1,7 @@
 function accepted () {
-  alert("Você aceitou namorar comigo! :)");
+  alert("Obrigado por aceitar Débora sua linda sz! :)");
   // redireciona para um URL após clicar no SIM
-  location.href = "https://music.youtube.com/watch?v=izGwDsrQ1eQ";
+  location.href = "https://music.youtube.com/watch?v=2Vv-BfVoq4g&list=RDCLAK5uy_l23RCAvZe7rrMs3bX7S4vYGmwo5J3FTQc";
 }
 
 function newPosition(min, max) {
